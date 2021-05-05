@@ -7,3 +7,4 @@ HTMLVideoで撮影した画像をAWSRekognitionで笑顔かどうか判定し、
 表示します。
 
 ## フロント側(Angular)のURL
+https://github.com/yukihiro-maeda0731/AngularDetectFace/tree/master
